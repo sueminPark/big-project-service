@@ -1,4 +1,4 @@
-# 기업의 채용 어시스턴트 PICK UP <img src="./public/images/logo.png" width="100" height="auto">
+# 기업의 채용 어시스턴트 PICK UP <img src="big-project-front/public/images/logo.png" width="100" height="auto">
 
 
 ## 📌 프로젝트 소개
@@ -81,43 +81,43 @@ PICK UP은 기업의 직무 별 평가항목을 입력하고, 그에 따른 평�
 <br/>
 
 ## 🎨 아키텍처
-![architecture](./public/images/아키텍처.png)
+![architecture](big-project-front/public/images/아키텍처.png)
 
 <br/>
 
 ## 💡 주요 기능
 |    회원가입 & 로그인    |
 | :--------------: |
-| <img src="./public/images/회원가입_완료.png" width="200"> <img src="./public/images/로그인1.png" width="200"> |
+| <img src="big-project-front/public/images/회원가입_완료.png" width="200"> <img src="big-project-front/public/images/로그인1.png" width="200"> |
 | - 회원가입 시, 이메일 인증을 통한 본인 확인<br/>- 회사명, 직무, 부서 등을 입력하여 회원가입 가능 |
 
 <br/>
 
 | 마이페이지 |
 | :--------------: |
-| <img src="./public/images/마이페이지(평가처리 시작).png" width="200"> <img src="./public/images/마이페이지(평가 처리중).png" width="200"> |
-| <img src="./public/images/마이페이지(PDF처리).png" width="200"> <img src="./public/images/마이페이지(결과확인).png" width="200"> |
+| <img src="big-project-front/public/images/마이페이지(평가처리 시작).png" width="200"> <img src="big-project-front/public/images/마이페이지(평가 처리중).png" width="200"> |
+| <img src="big-project-front/public/images/마이페이지(PDF처리).png" width="200"> <img src="big-project-front/public/images/마이페이지(결과확인).png" width="200"> |
 | - 나의 정보 : 회원가입 시 입력했던 정보 확인 가능 <br/>- 분석 및 평가 : 채용 담당자 본인이 등록한 공고에 대한 분석과 평가를 진행 |
 
 <br/>
 
 | 이력서 분석 및 평가 페이지 |
 | :--------------: |
-| <img src="./public/images/이력서 업로드.png" width="200"> <img src="./public/images/회사기준 등록중.png" width="200"> |
+| <img src="big-project-front/public/images/이력서 업로드.png" width="200"> <img src="big-project-front/public/images/회사기준 등록중.png" width="200"> |
 | - 이력서 업로드 : 지원자들의 이력서 파일을 업로드 <br/>- 평가 항목 입력 : 채용 공고에 대한 평가 항목 기준을 입력하여 평가 점수를 도출할 항목에 대한 자세한 내용 작성 가능 |
 
 <br/>
 
 | 분석 결과 페이지 |
 | :--------------: |
-| <img src="./public/images/분석결과.png" width="200"> <img src="./public/images/평점리스트.png" width="200"> |
+| <mg src="big-project-front/public/images/분석결과.png" width="200"> <img src="big-project-front/public/images/평점리스트.png" width="200"> |
 | - 본인이 입력한 평가 항목 요소들과 직무 확인 가능<br/> - 지원자 수 통계와 평가 점수 평균 확인 가능 <br/> 지원자들의 평가 기준 별 평가 점수와 지원자 합격 여부 결정 가능 |
 
 <br/>
 
 | 힙격자 명단 및 상세 페이지 |
 | :--------------: |
-| <img src="./public/images/합격명단.png" width="200"> <img src="./public/images/지원자 상세페이지.png" width="200"> <img src="./public/images/지원자 질문.png" width="200"> |
+| <img src="big-project-front/public/images/합격명단.png" width="200"> <img src="big-project-front/public/images/지원자 상세페이지.png" width="200"> <img src="./public/images/지원자 질문.png" width="200"> |
 | - 합격자 명단 : 평점 및 개인의 평가 항목 별 분석 내용 확인 가능 <br/>- 면접 질문 : AI 모델을 통해 개인의 이력서를 분석해 개인별 맞춤 면접 질문을 생성 |
 
 
@@ -125,8 +125,8 @@ PICK UP은 기업의 직무 별 평가항목을 입력하고, 그에 따른 평�
 
 | 게시판 |
 | :--------------: |
-| <img src="./public/images/게시글 생성.png" width="200"> <img src="./public/images/게시글 생성창.png" width="200"> |
-| <img src="./public/images/게시판 댓글.png" width="200"> <img src="./public/images/게시판 댓글 작성.png" width="200"> |
+| <img src="big-project-front/public/images/게시글 생성.png" width="200"> <img src="big-project-front/public/images/게시글 생성창.png" width="200"> |
+| <img src="big-project-front/public/images/게시판 댓글.png" width="200"> <img src="big-project-front/public/images/게시판 댓글 작성.png" width="200"> |
 | - 사내 커뮤니티 게시판으로 공지 및 글, 댓글 crud 가능<br/>- 글 작성 : 본인 글만 수정 및 삭제 가능<br/>- 댓글 작성 : 본인 댓글만 수정 및 삭제 가능<br/> |
 
 <br/>
